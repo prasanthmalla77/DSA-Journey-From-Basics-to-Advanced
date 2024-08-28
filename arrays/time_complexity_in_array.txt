@@ -1,0 +1,9 @@
+operation | time complexity | space complexity
+-------------------|-----------------|-----------------
+creating an empty array | O(1) | O(1)
+creating an array with elements | O(n) | O(n)
+inserting a value in an array | o(n) | O(n)
+deleting a value in an array | o(n) | O(1)
+accesing a given cell in an array | o(1) | O(1)
+searching for a value in an array | O(n) | O(1)
+traversing an array | O(n) | O(1)
